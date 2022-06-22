@@ -1,0 +1,49 @@
+"name": "Adistri Story",
+ "short_name": "Adistri Story",
+ "description": "Makna Cinta Dalam Arti Sederhana",
+ "lang": "id",
+ "dir": "ltr",
+ "theme_color": "#000000",
+ "start_url": "www.adistriayuni.my.id",
+ "background_color": "#000000",
+ "display": "standalone",
+ "orientation": "portrait-primary",
+ "version": "1.0.0",
+ "author": "Adistri Ayuni Nasution",
+ "icons": [{
+    "src": "blob:https://maskable.app/5bf9abf4-be6a-4a61-bc7b-3cd1030c76ee.png",
+    "sizes": "36x36",
+    "type": "image/png",
+    "density": "0.75"
+  }, {
+    "src": "blob:https://maskable.app/5bf9abf4-be6a-4a61-bc7b-3cd1030c76ee.png",
+    "sizes": "48x48",
+    "type": "image/png",
+    "density": "1.0"
+  }, {
+    "src": "blob:https://maskable.app/af449d86-0656-4e87-a2a9-83208fbc3aec.png",
+    "sizes": "72x72",
+    "type": "image/png",
+    "density": "1.5"
+  }, {
+    "src": "blob:https://maskable.app/d6a50c82-b20a-4b75-a1aa-2baa17b71242.png",
+    "sizes": "96x96",
+    "type": "image/png",
+    "density": "2.0"
+  }, {
+    "src": "blob:https://maskable.app/9fa7d185-37c8-4ed0-8d26-a2e90274c030.png)",
+    "sizes": "144x144",
+    "type": "image/png",
+    "density": "3.0"
+  }, {
+    "src": "blob:https://maskable.app/0399ea70-66b9-478f-89ad-cdb8af47ed56.png",
+    "sizes": "192x192",
+    "type": "image/png",
+    "density": "4.0"
+  }, {
+    "src": "blob:https://maskable.app/d6a50c82-b20a-4b75-a1aa-2baa17b71242.png",
+    "sizes": "512x512",
+    "type": "image/png",
+    "density": "5.0"
+  }]
+}
